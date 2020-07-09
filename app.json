@@ -1,0 +1,12 @@
+{
+  "name": "NextFontTest",
+  "displayName": "NextFontTest",
+  "expo": {
+    "name": "NextFontTest",
+    "slug": "NextFontTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
